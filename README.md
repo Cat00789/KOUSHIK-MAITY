@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Cat00789/KOUSHIK-MAITY/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm KOUSHIK MAITY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
